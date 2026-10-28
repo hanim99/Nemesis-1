@@ -1,6 +1,5 @@
 # Nemesis
-
-[![demo](https://img.youtube.com/vi/nNW0nZTq-5Y/maxresdefault.jpg)](https://youtu.be/nNW0nZTq-5Y)
+https://youtu.be/DlxSGyvCFRM?si=hBgGY_f8kQBZdLZl
 ▶ **Click the image above to go to the video**
 ---
 
