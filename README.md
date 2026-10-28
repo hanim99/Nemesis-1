@@ -3,7 +3,7 @@
 [![demo](https://img.youtube.com/vi/nNW0nZTq-5Y/maxresdefault.jpg)](https://youtu.be/nNW0nZTq-5Y)
 ▶ **Click the image above to go to the video**
 ---
-
+https://youtu.be/DlxSGyvCFRM?si=3Uc3kOg6MYRTFGaB
 ## What it is
 
 Nemesis is a small CLI tool that runs a security assessment against a web target. You give it a URL and an instruction in plain English, and it comes back with a report.
